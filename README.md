@@ -5,8 +5,6 @@ An interactive 3D tool for visualizing rigid body rotations. It renders two coor
 **[Live demo →](https://yourusername.github.io/rigid-body-rotation-viz/)**
 *(replace with your GitHub Pages URL once enabled)*
 
-![screenshot](screenshot.png)
-*(optional — add a screenshot of the tool and drop it in the repo root)*
 
 ## What it shows
 
