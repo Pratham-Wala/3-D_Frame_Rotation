@@ -2,8 +2,7 @@
 
 An interactive 3D tool for visualizing rigid body rotations. It renders two coordinate frames — a fixed reference frame and a rotatable body frame — and updates a live rotation matrix (plus quaternion and axis-angle) readout in real time as you adjust the rotation.
 
-**[Live demo →](https://yourusername.github.io/rigid-body-rotation-viz/)**
-*(replace with your GitHub Pages URL once enabled)*
+https://pratham-wala.github.io/3-D_Frame_Rotation/
 
 
 ## What it shows
